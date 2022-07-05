@@ -1,6 +1,6 @@
 # vuejs-tdd-started
 
-This template should help get you started developing with Vue 3 in Vite.
+Projet simpliste permettant de démarrer en TDD avec Vuejs 3, Jest et Vuetify
 
 ## Recommended IDE Setup
 
