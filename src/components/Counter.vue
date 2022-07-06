@@ -1,5 +1,6 @@
 <template>
-0
+<span>0</span>
+<button>+</button>
 </template>
 
 <script>
